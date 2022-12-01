@@ -4,7 +4,8 @@
 
 
 ## 
-The goal of this project is to conduct sentiment analysis since it allows businesses to quickly understand their customers' overall opinions..
+The goal of this project is to conduct sentiment analysis as it allows businesses to quickly understand the overall opinions of their customers.
+
 # Dataset
 https://www.kaggle.com/datasets/airbnb/seattle
 
