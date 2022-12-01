@@ -1,6 +1,6 @@
-#Airbnb Project 
+# **Airbnb Project** 
 
-![![My Image]("C:\Users\user\OneDrive\Pictures\my-image.jpg")
+![my-image jpg](https://user-images.githubusercontent.com/110460207/204954769-97dd8e19-e8ca-4a2c-812c-644644a41fd2.jpg)
 
 
 ## 
