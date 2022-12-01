@@ -22,17 +22,17 @@ https://www.kaggle.com/datasets/airbnb/seattle
 
 ## Procedure
 
-1. Business Understanding: Discovering more about business reasons for our data mining effort and exploring what the company expects to gain from the project. By attempting to understand the objectives and requirements of the business, which in this case is Airbnb
+1. Business Understanding: Exploring the business reasons for our data mining effort and what the company hopes to gain from the project. This is done by attempting to understand the goals and requirements of the business, in this case the Airbnb.
 
 2. Data Understanding: A brief overview of the data which involves accessing the data and exploring it using tables and graphics 
 
-3. Data Preparation: Data is cleaned and prepared in a clean and organised standard format for further further analysis involving the following tasks; Merging data sets, selecting a sample subset of data, aggregating records, deriving new attributes, sorting the data for modelling, removing or replacing blank or missing values, tokenize, transform it into a Document-Term Matrix and finally splitting into training and test data sets. 
+3. Data Preparation: Merging data sets, selecting a sample subset of data, aggregating records, deriving new attributes, sorting the data for modelling, removing missing values,cleaning text, tokenizing, transforming it into a Document-Term Matrix, and finally splitting into training and test data sets are all tasks involved in cleaning and preparing data for further analysis. 
 
-4. Exploratory Data Analysis: The goal of this process is to summarise the main characteristics of the dataset, often by using visual methods. Outputs of this procedure include Word clouds and top grams
+4. Exploratory Data Analysis: The goal of this procedure is to summarise the main characteristics of the dataset, which is often done visually. Word clouds and top grams are among the outputs of this procedure.
 
-4. Modelling: Models are built such as Naive Bayes and Artificial Neural Networks to further support and provide insight to our previously posed questions.
+5. Modelling: To further support and provide insight to our previously posed questions, models such as Naive Bayes and Artificial Neural Networks are built.
 
-5. Recommendation and Conclusion: Here, we interpret our project findings, provide opinions based on the project findings, and propose a solution, a gap in the research that requires further investigation, and the next step in research.
+6. Recommendation and Conclusion: Here, we interpret our project findings, offer opinions based on the findings, and propose a solution, a gap in the research that needs to be filled, and the next steps in research.
 
 ## License
 
